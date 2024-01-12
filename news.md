@@ -1,4 +1,4 @@
-# AIZOIC News
+# AIZOIC - Feature Updates & News
 
 ### 2023-12-22 User Built AI Apps
 
@@ -34,11 +34,21 @@ Added support to newest AI model gpt-4-1106-preview and Ernie-Bot-4.0.
 
 [AIZOIC](https://aizoi.cc) has been awarded the OpenAI T3 Certification! More features will be launched soon!
 
-### 2023-08-21 Censor for China Users
+### 2023-08-21 Localized Censorship in China Area
 
 Dear China users, due to China government policies, to continue serving you, the local edition [AIZOIC China: cn.aizoi.cc](https://u.cn.aizoi.cc) implements content censor for Chinese users. Everyone outside of China please visit [AIZOIC Global: earth.aizoi.cc](https://u.earth.aizoi.cc) for a free speech experience.
 
-### 2023-05-05 Go Online
+### 2023-07-01 Android App
+
+[Download AIZOIC as Android App](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=android)
+
+### 2023-06-06 iOS App in AppStore
+
+[Install AIZOIC as iOS App](https://u.aizoi.cc/#/pages/user-resource-detail?tagnow=ios)
+
+### 2023-05-05 WebApp v1.0 Go Online
+
+[Open AIZOIC as WebApp](https://u.aizoi.cc)
 
 ---
 
