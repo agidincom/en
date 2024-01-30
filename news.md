@@ -1,5 +1,17 @@
 # AIZOIC - Feature Updates & News
 
+### 2024-01-30 Customer Service
+
+On the "Personal Center" page, a new section "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
+
+### 2024-01-01 AIZOIC 2.0
+
+AIZOIC 2.0 is officially available in AppStore now!
+
+[Click to get Web, Android or iOS apps](https://u.aizoi.cc/#/pages/user-resource)
+
+Since version 2.0, AIZOIC has become completely independent as a platform dedicated to building AI self-built applications. More AI exclusive features will be launched one after another!
+
 ### 2023-12-22 User Built AI Apps
 
 Important! From now on, you can build your own AI app and share with everyone, unleashing infinite possibilities.
