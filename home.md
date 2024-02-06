@@ -6,7 +6,7 @@ At the dawn of the new era of artificial intelligence, we are committed to creat
 
 The Cenozoic is the era of the explosion of animal and plant life on Earth, and mammoths, saber-toothed tigers, whales, scared birds, and angiosperms flourished on the earth. The most important thing for humans, mammals, rose.
 
-![Alt text](./images/lifezoic.png)
+<img src="./images/lifezoic.png" width="500"/>
 
 AIZOIC, the era of artificial intelligence explosion, GPT, BERT, OpenAI, DeepMind, 、......, have emerged, overwhelmed, anxiety: Will my job be replaced? Can I keep up with AI?
 
