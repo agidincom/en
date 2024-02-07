@@ -1,10 +1,14 @@
-# AIZOIC - Feature Updates & News
+# AIZOIC - Updates & News
+
+### 2024-02-06 AIZOIC on Google Play
+
+AIZOIC is now available on the Google Play Store! Click [AIZOIC on Google Play](https://gplay.aizoi.cc) to install on Android.
 
 ### 2024-01-30 Customer Service
 
-On the "Personal Center" page, a new section "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
+On the "Personal Center" page, a new form "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
 
-### 2024-01-01 AIZOIC 2.0
+### 2024-01-01 Relaunch in AppStore
 
 AIZOIC 2.0 is officially available in AppStore now!
 
@@ -48,7 +52,7 @@ Added support to newest AI model gpt-4-1106-preview and Ernie-Bot-4.0.
 
 ### 2023-08-21 Localized Censorship in China Area
 
-Dear China users, due to China government policies, to continue serving you, the local edition [AIZOIC China: cn.aizoi.cc](https://u.cn.aizoi.cc) implements content censor for Chinese users. Everyone outside of China please visit [AIZOIC Global: earth.aizoi.cc](https://u.earth.aizoi.cc) for a free speech experience.
+Dear China users, due to China government policies, to continue serving you, the local edition [AIZOIC China](https://u.cn.aizoi.cc) implements content censor for Chinese users. Everyone outside of China please visit [AIZOIC Global](https://u.earth.aizoi.cc) for a free speech experience.
 
 ### 2023-07-01 Android App
 

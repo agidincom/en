@@ -1,4 +1,4 @@
-# AIZOIC - Join You to AI Era
+# AIZOIC - Join You to AI Era, Build & Share AI Apps
 
 At the dawn of the new era of artificial intelligence, we are committed to creating an artificial intelligence aggregation platform that allows users to directly access various AI models emerging around the world without any additional settings, one-stop, zero-threshold, and low-cost, and can talk, draw, design logos, make documents, make tables, and write code、...... Make it easy for users to sync with the world's strongest, latest, and most powerful AI.
 

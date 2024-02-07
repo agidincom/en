@@ -1,15 +1,17 @@
 # AIZOIC Global
 
-Join You to AI Era, Build & Share AI Apps
+ℹ Looking for services in China? Take a look at [AIZOIC 中国区](https://github.com/aizoic/cn/)
 
-[**What is AIZOIC？**](./home.md)
+---
+
+### [**What is AIZOIC？**](./home.md)
 
 - Naming
 - Ideology
 - Vision & Features
 - Decentralized
 
-[**Feature Updates &amp; News**](./news.md)
+### [**Feature Updates &amp; News**](./news.md)
 
 - Web go online
 - iOS/Android go on shelf
@@ -18,8 +20,8 @@ Join You to AI Era, Build & Share AI Apps
 - AI Apps
 - ......
 
-[**Nothing can compare to seeing and touching. Click here to try it now!**](https://u.aizoi.cc)
+[**Nothing can compare to seeing and touching by yourself. Click here to try it now!**](https://u.aizoi.cc)
 
 ---
 
-Looking for services in China? Take a look at [AIZOIC China](https://github.com/aizoic/cn/)
+ℹ Looking for services in China? Take a look at [AIZOIC 中国区](https://github.com/aizoic/cn/)
