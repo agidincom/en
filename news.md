@@ -1,14 +1,18 @@
 # AIZOIC - Updates & News
 
-### 2024-02-06 AIZOIC on Google Play
+### 2024-02-08 Spring Edition on AppStore & Google Play
 
-AIZOIC is now available on the Google Play Store! Click [AIZOIC on Google Play](https://gplay.aizoi.cc) to install on Android.
+The Happy Spring New Year edition is now available on both AppStore and Google Play!
+
+Android users: Click [AIZOIC on Google Play](https://gplay.aizoi.cc) to install through Google Play, or click [AIZOIC as APK](https://store.aizoi.cc/aizoic.apk) to download the official APK to install.
+
+iOS users: Click [AIZOIC on AppStore](https://ios.aizoi.cc) to install on iPhone or iPad.
 
 ### 2024-01-30 Customer Service
 
 On the "Personal Center" page, a new form "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
 
-### 2024-01-01 Relaunch in AppStore
+### 2024-01-01 Relaunch on AppStore
 
 AIZOIC 2.0 is officially available in AppStore now!
 
