@@ -1,8 +1,8 @@
 # AIZOIC - Updates & News
 
-### 2024-02-08 Spring Edition on AppStore & Google Play
+### 2024-02-08 New Edition on AppStore & Google Play
 
-The Happy Spring New Year edition is now available on both AppStore and Google Play!
+Happy Lunar New Year edition is now available on both AppStore and Google Play!
 
 Android users: Click [AIZOIC on Google Play](https://gplay.aizoi.cc) to install through Google Play, or click [AIZOIC as APK](https://store.aizoi.cc/aizoic.apk) to download the official APK to install.
 
