@@ -1,5 +1,9 @@
 # AIZOIC - Updates & News
 
+### 2024-02-10 Gemini Pro
+
+Gemini is available now, the newly released AI by Google. Try it now!
+
 ### 2024-02-08 New Edition on AppStore & Google Play
 
 Happy Lunar New Year edition is now available on both AppStore and Google Play!

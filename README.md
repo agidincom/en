@@ -1,6 +1,6 @@
 # AIZOIC Global
 
-ℹ Looking for services in China? Take a look at [AIZOIC 中国区](https://github.com/aizoic/cn/)
+ℹ Looking for services in China? Take a look at [AIZOIC 中国区](https://github.com/aippia/cn/)
 
 ---
 
