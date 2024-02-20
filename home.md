@@ -1,20 +1,20 @@
-# AIZOIC - Join You to AI Era, Build & Share AI Apps
+# Aippia - Join You to AI Era, Build & Share AI Apps
 
 At the dawn of the new era of artificial intelligence, we are committed to creating an artificial intelligence aggregation platform that allows users to directly access various AI models emerging around the world without any additional settings, one-stop, zero-threshold, and low-cost, and can talk, draw, design logos, make documents, make tables, and write code、...... Make it easy for users to sync with the world's strongest, latest, and most powerful AI.
 
-### AIZOIC, the next era to the CENOZOIC
+### Aippia, the next era to the CENOZOIC
 
 The Cenozoic is the era of the explosion of animal and plant life on Earth, and mammoths, saber-toothed tigers, whales, scared birds, and angiosperms flourished on the earth. The most important thing for humans, mammals, rose.
 
 <img src="./images/lifezoic.png" width="500"/>
 
-AIZOIC, the era of artificial intelligence explosion, GPT, BERT, OpenAI, DeepMind, 、......, have emerged, overwhelmed, anxiety: Will my job be replaced? Can I keep up with AI?
+Aippia, the era of artificial intelligence explosion, GPT, BERT, OpenAI, DeepMind, 、......, have emerged, overwhelmed, anxiety: Will my job be replaced? Can I keep up with AI?
 
-That's why **AIZOIC** was born! Here, we are committed to letting you directly reach all kinds of AI in the world with zero threshold, so that you can easily synchronize with the AI Nascent!
+That's why **Aippia** was born! Here, we are committed to letting you directly reach all kinds of AI in the world with zero threshold, so that you can easily synchronize with the AI Nascent!
 
-To this end, the [AIZOIC ](https://u.aizoi.cc)service platform, built using the latest technology, connects you with AI, allowing you to use AI with zero barriers. It assists you in your creative work and daily life, making it easy for you to synchronize with the AI era!
+To this end, the [Aippia ](https://u.aippia.com)service platform, built using the latest technology, connects you with AI, allowing you to use AI with zero barriers. It assists you in your creative work and daily life, making it easy for you to synchronize with the AI era!
 
-[**Clain credits and try it now!**](https://u.aizoi.cc)
+[**Clain credits and try it now!**](https://u.aippia.com)
 
 ##### Zero threshold
 
@@ -28,17 +28,17 @@ Don't download! Do not install! Do not set! Don't look at the tutorial!
 
 ❌❌❌ In contrast, almost all other AI channels require cumbersome pre-technical preparation to be able to connect to world-class AI intermittently. For the vast majority of users, this is actually an impossible task, even if you spend a lot of money to buy an account, buy a tutorial, buy a book, you can't use it! ❌❌❌
 
-[Claim credit to try it now!](https://u.aizoi.cc)
+[Claim credit to try it now!](https://u.aippia.com)
 
 ### One stop with all channels
 
 We will continue to integrate various AI models and applications. No matter where you are from, no matter what new AI emerges in the world, we will be the first to get it to you!
 
-We deliver the service through all major channels, including [Web, iOS, Android apps](https://u.aizoi.cc/#/pages/user-resource).
+We deliver the service through all major channels, including [Web, iOS, Android apps](https://u.aippia.com/#/pages/user-resource).
 
 Need to customize your own model? Contact us and we can train your private AI model for you.
 
-[Claim credit to try it now!](https://u.aizoi.cc)
+[Claim credit to try it now!](https://u.aippia.com)
 
 ### Lower cost
 
@@ -52,13 +52,13 @@ We give each new user a free credit to experience AI models with confidence.
 
 For long-term users, we pay as you go flexibly based on AI power consumption: start at a penny! Pay as you go! No need not pay!
 
-[Claim credit to try it now!](https://u.aizoi.cc)
+[Claim credit to try it now!](https://u.aippia.com)
 
-(Suggestion: You can [join one of our communities](https://u.aizoi.cc/#/pages/user-resource) at first, ask a CSR to obtain a promo code, then to register, you can get doubled rewards)
+(Suggestion: You can [join one of our communities](https://u.aippia.com/#/pages/user-resource) at first, ask a CSR to obtain a promo code, then to register, you can get doubled rewards)
 
 ### Globalization and Localization
 
-We are open to the world and provide global service at [earth.aizoi.cc](https://u.earth.aizoi.cc)
+We are open to the world and provide global service at [earth.aippia.com](https://u.earth.aippia.com)
 
 We also provide localized services to respect local culture and policies. For example, we provide a localized site for China with special content censorship aligned with China's policies, so that Chinese users can visit us as smooth as possible.
 
@@ -68,7 +68,7 @@ Our service facilities are distributed all over the world, and we use decentrali
 
 ### About us
 
-We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aizoi.cc](hi@aizoi.cc) or[ join communities](https://u.aizoi.cc/#/pages/user-resource) to ask any questions for any purposes!
+We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://u.aippia.com/#/pages/user-resource) to ask any questions for any purposes!
 
 ---
 

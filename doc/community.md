@@ -1,4 +1,4 @@
-# AIZOIC - Community Rewards Program
+# Aippia - Community Rewards Program
 
 We hope to explore the new possibilities and new value of artificial intelligence with more partners.
 

@@ -1,10 +1,10 @@
-# AIZOIC Global
+# Aippia Global
 
-ℹ Looking for services in China? Take a look at [AIZOIC 中国区](https://github.com/aippia/cn/)
+ℹ Looking for services in China? Take a look at [Aippia 中国区](https://github.com/aippia/cn/)
 
 ---
 
-[**What is AIZOIC？**](./home.md)
+[**What is Aippia？**](./home.md)
 
 - Naming
 - Ideology
@@ -20,4 +20,4 @@
 - AI Apps
 - ......
 
-[**No more narrative! Click here to try it now!**](https://u.aizoi.cc)
+[**No more narrative! Click here to try it now!**](https://u.aippia.com)
