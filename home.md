@@ -1,22 +1,14 @@
-# Aippia - Join You to AI Era, Build & Share AI Apps
+# Aippia - Build & Share AI Apps
 
 At the dawn of the new era of artificial intelligence, we are committed to creating an artificial intelligence aggregation platform that allows users to directly access various AI models emerging around the world without any additional settings, one-stop, zero-threshold, and low-cost, and can talk, draw, design logos, make documents, make tables, and write code、...... Make it easy for users to sync with the world's strongest, latest, and most powerful AI.
 
-### Aippia, the next era to the CENOZOIC
+### What is Aippia?
 
-The Cenozoic is the era of the explosion of animal and plant life on Earth, and mammoths, saber-toothed tigers, whales, scared birds, and angiosperms flourished on the earth. The most important thing for humans, mammals, rose.
-
-<img src="./images/lifezoic.png" width="500"/>
-
-Aippia, the era of artificial intelligence explosion, GPT, BERT, OpenAI, DeepMind, 、......, have emerged, overwhelmed, anxiety: Will my job be replaced? Can I keep up with AI?
-
-That's why **Aippia** was born! Here, we are committed to letting you directly reach all kinds of AI in the world with zero threshold, so that you can easily synchronize with the AI Nascent!
-
-To this end, the [Aippia ](https://u.aippia.com)service platform, built using the latest technology, connects you with AI, allowing you to use AI with zero barriers. It assists you in your creative work and daily life, making it easy for you to synchronize with the AI era!
+Aippia stands for AI apps, it is a new land for AI beings.
 
 [**Clain credits and try it now!**](https://u.aippia.com)
 
-##### Zero threshold
+### Zero threshold
 
 No additional setup is required, and you can reach all the world's major AI!
 

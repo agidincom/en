@@ -1,4 +1,8 @@
-# Aippia - Updates & News
+# Aippia - News
+
+### 2024-02-22 Rebranding
+
+Rebranding the AI service as Aippia, in order to better reflect the Aipp marketplace. Accordingly, the web address has been changed to [aippia.com](https://aippia.com), while still retaining [aizoi.cc](https://aizoi.cc) for parallel usage. The [iOS app](https://ios.aippia.com) and [Android app](https://apk.aippia.com) are also upgraded. Thank you for your trust!
 
 ### 2024-02-10 Gemini Pro
 
