@@ -1,4 +1,15 @@
-# Aippia - News
+# Aippia News
+
+### 2024-03-22 Free Image Creation
+
+We happily announce that Stable Diffusion XL model is provided for **FREE** now! You can turn your imaginations to images totally free!
+We have also provided Llama2 13b & some other language models for Free!
+
+### 2024-02-26 Your First Aipp
+
+Click to watch the video, to learn how to create your first Aipp in one minute!
+
+<a target="_blank" href="https://youtu.be/iSoSfhOCN3w" title="一分钟学会AI：拥有我的英语小秘书"><img src="./images/20240226-video-cover.jpg" alt="一分钟学会AI：拥有我的英语小秘书" width="200" height="200"/></a>
 
 ### 2024-02-22 Rebranding
 
@@ -80,4 +91,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-[Back to Contents Table](./README.md)
+**[ℹ️ Back to Contents Table](./README.md)**

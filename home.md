@@ -60,8 +60,8 @@ Our service facilities are distributed all over the world, and we use decentrali
 
 ### About us
 
-We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://u.aippia.com/#/pages/user-resource) to ask any questions for any purposes!
+We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://u.aippia.com/#/pages/user-resource) !
 
 ---
 
-[Back to Contents Table](./README.md)
+**[ℹ️ Back to Contents Table](./README.md)**
