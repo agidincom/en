@@ -1,8 +1,13 @@
 # Aippia News
 
-### 2024-03-22 Free Image Creation
+### 2034-03-29 GPT-4-Vision
+
+Successfully launched `gpt-4-vision` for multi-modal dialogue! Let AI analyze your images, making your playtime more enjoyable and your work more efficient!
+
+### 2024-03-22 SD-XL for Free
 
 We happily announce that Stable Diffusion XL model is provided for **FREE** now! You can turn your imaginations to images totally free!
+
 We have also provided Llama2 13b & some other language models for Free!
 
 ### 2024-02-26 Your First Aipp
@@ -91,4 +96,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-**[ℹ️ Back to Contents Table](./README.md)**
+**[ℹ️ Contents Table](./README.md)**

@@ -64,4 +64,4 @@ We are a global team that operates as a decentralized DAO. Whether you are an en
 
 ---
 
-**[ℹ️ Back to Contents Table](./README.md)**
+**[ℹ️ Contents Table](./README.md)**
