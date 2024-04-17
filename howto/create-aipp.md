@@ -6,4 +6,4 @@ Click to watch the video, to learn how to create your first Aipp in one minute!
 
 ---
 
-[ℹ Contents Table](./README.md)
+**[🔙 Contents Table](../README.md)**

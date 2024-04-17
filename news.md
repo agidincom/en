@@ -1,8 +1,12 @@
 # Aippia News
 
-### 2034-03-29 GPT-4-Vision
+### 2024-04-10 GPT-4-Turbo
 
-Successfully launched `gpt-4-vision` for multi-modal dialogue! Let AI analyze your images, making your playtime more enjoyable and your work more efficient!
+Today OpenAI announced that `gpt4-turbo` has been upgraded to the official version. Aippia has synchronized the update at the first time. It now directly supports multi-modal text and image conversations with `gpt4-turbo`!
+
+### 2024-03-29 GPT-4-Vision-Preview
+
+Successfully launched `gpt-4-vision-preview` for multi-modal dialogue! Let AI analyze your images, making your playtime more enjoyable and your work more efficient!
 
 ### 2024-03-22 SD-XL for Free
 
@@ -12,9 +16,7 @@ We have also provided Llama2 13b & some other language models for Free!
 
 ### 2024-02-26 Your First Aipp
 
-Click to watch the video, to learn how to create your first Aipp in one minute!
-
-<a target="_blank" href="https://youtu.be/iSoSfhOCN3w" title="一分钟学会AI：拥有我的英语小秘书"><img src="./images/20240226-video-cover.jpg" alt="一分钟学会AI：拥有我的英语小秘书" width="200" height="200"/></a>
+[一分钟学会创建 Aipp 小应用: 我的英语额小秘书](./howto/create-aipp)
 
 ### 2024-02-22 Rebranding
 
@@ -52,7 +54,7 @@ Please be reminded that it is currently for test only. Thank you for being the f
 
 OpenAI will also publish their official GPTstore, we'll be completely compatible to GPTs.
 
-### 2023-12-02 Chat by Talk
+### 2023-12-02 Chat by Voice
 
 From now on, you can simply talk to AI, and hear from AI by speech!
 
@@ -96,4 +98,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-**[ℹ️ Contents Table](./README.md)**
+**[🔙️ Contents Table](./README.md)**
