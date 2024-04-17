@@ -34,10 +34,6 @@ Need to customize your own model? Contact us and we can train your private AI mo
 
 Your cost is also our concern, and we are committed to providing you with the best value for money.
 
-We don't sell accounts! Don't sell lessons! Don't sell books! No, no, no, don't play anything imaginary!
-
-Ready to go! Everything we have is pure dry goods!
-
 We give each new user a free credit to experience AI models with confidence.
 
 For long-term users, we pay as you go flexibly based on AI power consumption: start at a penny! Pay as you go! No need not pay!

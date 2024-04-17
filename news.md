@@ -1,5 +1,17 @@
 # Aippia News
 
+### 2024-04-11 爱奇点.com
+
+We have specially provided China users with the Chinese domain name [爱奇点.com] in order to ensure long-term compliance with policies in China and to make it easy for you to remember and search. You can also find our exclusive channel by searching [爱奇点] on major Chinese platforms throughout the internet (Baidu, WeChat, Douyin, Bilibili, Xiaohongshu, etc.).
+
+### 2024-04-10 gpt4-turbo official
+
+Today OpenAI has officially announced the upgrade of `gpt4-turbo` to be stable release, and we have synchronized the update in the first place. It now directly supports `gpt4-turbo` for multimodal text and image conversation!
+
+### 2024-04-07 爱奇点 in WeChat
+
+We have launched a WeChat official account [爱奇点]. Please follow and subscribe to it! By following [爱奇点], you will be able to directly access and use our service within WeChat.
+
 ### 2024-04-10 GPT-4-Turbo
 
 Today OpenAI announced that `gpt4-turbo` has been upgraded to the official version. Aippia has synchronized the update at the first time. It now directly supports multi-modal text and image conversations with `gpt4-turbo`!
