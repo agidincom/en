@@ -1,10 +1,12 @@
-# Aippia News
+# Aippia - Updates & News
+
+[Click to get Web, Android or iOS apps](https://links.aippia.com)
 
 ### 2024-04-11 爱奇点.com
 
 We have specially provided China users with the Chinese domain name [爱奇点.com] in order to ensure long-term compliance with policies in China and to make it easy for you to remember and search. You can also find our exclusive channel by searching [爱奇点] on major Chinese platforms throughout the internet (Baidu, WeChat, Douyin, Bilibili, Xiaohongshu, etc.).
 
-### 2024-04-10 gpt4-turbo official
+### 2024-04-10 GPT4-turbo Official
 
 Today OpenAI has officially announced the upgrade of `gpt4-turbo` to be stable release, and we have synchronized the update in the first place. It now directly supports `gpt4-turbo` for multimodal text and image conversation!
 
@@ -25,10 +27,6 @@ Successfully launched `gpt-4-vision-preview` for multi-modal dialogue! Let AI an
 We happily announce that Stable Diffusion XL model is provided for **FREE** now! You can turn your imaginations to images totally free!
 
 We have also provided Llama2 13b & some other language models for Free!
-
-### 2024-02-26 Your First Aipp
-
-[一分钟学会创建 Aipp 小应用: 我的英语额小秘书](./howto/create-aipp)
 
 ### 2024-02-22 Rebranding
 
@@ -53,8 +51,6 @@ On the "Personal Center" page, a new form "Contact Customer Service" has been ad
 ### 2024-01-01 Relaunch on AppStore
 
 Aippia 2.0 is officially available in AppStore now!
-
-[Click to get Web, Android or iOS apps](https://u.aippia.com/#/pages/user-resource)
 
 Since version 2.0, Aippia has become completely independent as a platform dedicated to building AI self-built applications. More AI exclusive features will be launched one after another!
 
@@ -92,17 +88,17 @@ Added support to newest AI model gpt-4-1106-preview and Ernie-Bot-4.0.
 
 [Aippia](https://aippia.com) has been awarded the OpenAI T3 Certification! More features will be launched soon!
 
-### 2023-08-21 Localized Censorship in China Area
+### 2023-08-21 Localization in China
 
 Dear China users, due to China government policies, to continue serving you, the local edition [Aippia China](https://u.cn.aippia.com) implements content censor for Chinese users. Everyone outside of China please visit [Aippia Global](https://u.earth.aippia.com) for a free speech experience.
 
 ### 2023-07-01 Android App
 
-[Download Aippia as Android App](https://u.aippia.com/#/pages/user-resource-detail?tagnow=android)
+[Download Aippia as Android App](https://apk.aippia.com)
 
 ### 2023-06-06 iOS App in AppStore
 
-[Install Aippia as iOS App](https://u.aippia.com/#/pages/user-resource-detail?tagnow=ios)
+[Install Aippia as iOS App](https://ios.aippia.com)
 
 ### 2023-05-05 WebApp v1.0 Go Online
 
