@@ -6,9 +6,9 @@
 
 We have specially provided China users with the Chinese domain name [爱奇点.com] in order to ensure long-term compliance with policies in China and to make it easy for you to remember and search. You can also find our exclusive channel by searching [爱奇点] on major Chinese platforms throughout the internet (Baidu, WeChat, Douyin, Bilibili, Xiaohongshu, etc.).
 
-### 2024-04-10 GPT4-turbo Official
+### 2024-04-10 GPT4-Turbo Multimodal
 
-Today OpenAI has officially announced the upgrade of `gpt4-turbo` to be stable release, and we have synchronized the update in the first place. It now directly supports `gpt4-turbo` for multimodal text and image conversation!
+Today OpenAI has officially announced the upgrade of `gpt4-turbo` to stable release, and we have synchronized the update in the first place. It now directly supports `gpt4-turbo` for multimodal text and image conversation! Let AI analyze your images, making your playtime more enjoyable and your work more efficient!
 
 ### 2024-04-07 爱奇点 in WeChat
 
@@ -17,10 +17,6 @@ We have launched a WeChat official account [爱奇点]. Please follow and subscr
 ### 2024-04-10 GPT-4-Turbo
 
 Today OpenAI announced that `gpt4-turbo` has been upgraded to the official version. Aippia has synchronized the update at the first time. It now directly supports multi-modal text and image conversations with `gpt4-turbo`!
-
-### 2024-03-29 GPT-4-Vision-Preview
-
-Successfully launched `gpt-4-vision-preview` for multi-modal dialogue! Let AI analyze your images, making your playtime more enjoyable and your work more efficient!
 
 ### 2024-03-22 SD-XL for Free
 
