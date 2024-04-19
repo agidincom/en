@@ -4,7 +4,7 @@
 
 ### 2024-04-11 爱奇点.com
 
-We have specially provided China users with the Chinese domain name [爱奇点.com] in order to ensure long-term compliance with policies in China and to make it easy for you to remember and search. You can also find our exclusive channel by searching [爱奇点] on major Chinese platforms throughout the internet (Baidu, WeChat, Douyin, Bilibili, Xiaohongshu, etc.).
+We have specially provided China users with the Chinese domain name [[爱奇点.com](https://u.爱奇点.com)] in order to ensure long-term compliance with policies in China and to make it easy for you to remember and search. You can also find our exclusive channel by searching [爱奇点] on major Chinese platforms throughout the internet (Baidu, WeChat, Douyin, Bilibili, Xiaohongshu, etc.).
 
 ### 2024-04-10 GPT4-Turbo Multimodal
 
@@ -30,7 +30,7 @@ Rebranding the AI service as Aippia, in order to better reflect the Aipp marketp
 
 ### 2024-02-10 Gemini Pro
 
-Gemini is available now, the newly released AI by Google. Try it now!
+Gemini is available now, the newly released AI by Google.
 
 ### 2024-02-08 New Edition on AppStore & Google Play
 

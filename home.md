@@ -8,8 +8,6 @@ At the dawn of the new era of artificial intelligence, we are committed to creat
 
 Aippia stands for AI apps, it is a new land for AI beings.
 
-[**Clain credits and try it now!**](https://u.aippia.com)
-
 ### Zero threshold
 
 No additional setup is required, and you can reach all the world's major AI!
@@ -38,8 +36,6 @@ We give each new user a free credit to experience AI models with confidence.
 
 For long-term users, we pay as you go flexibly based on AI power consumption: start at a penny! Pay as you go! No need not pay!
 
-(Suggestion: You can [join one of our communities](https://u.aippia.com/#/pages/user-resource) at first, contact customer service to obtain a promo code, then to register, you can get doubled rewards)
-
 ### Globalization and Localization
 
 We are open to the whole world and provide global service at [🔗 aippia.com](https://u.aippia.com)
@@ -52,7 +48,7 @@ Our service facilities are distributed all over the world, and we use decentrali
 
 ### About us
 
-We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://u.aippia.com/#/pages/user-resource) !
+We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://links.aippia.com) !
 
 ---
 
