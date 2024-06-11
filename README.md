@@ -2,10 +2,12 @@
 
 ## Contents Table
 
-- [What is Aippia?](./home.md)
+- [What is Aippia](./whitepaper.md)
 - [Feature Updates](./news.md)
-- [How to create an Aipp?](./howto/create-aipp.md)
-- [How to earn money from your Aipp?](./howto/earn-money.md)
+- [How to](./howto/)
+  - [create an Aipp](./howto/create-aipp.md)
+  - [earn money from your Aipp](./howto/earn-money.md)
+  - [customize Aipp with files](./howto/filebase.md)
 
 Talk is cheap, show me the app! [Click here to try it now!](https://u.aippia.com)
 

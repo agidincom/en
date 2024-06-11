@@ -6,4 +6,4 @@ Click to watch the video!
 
 ---
 
-**[🔙 Contents Table](../README.md)**
+**[🔙 Contents Table](../home.md)**

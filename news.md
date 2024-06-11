@@ -1,6 +1,6 @@
 # Aippia - Updates & News
 
-[Click to get Web, Android or iOS apps](https://links.aippia.com)
+[Download Web/Android/iOS apps](https://links.aippia.com)
 
 ### 2024-04-11 爱奇点.com
 
@@ -72,7 +72,7 @@ you can review your chat history with AI!
 
 To provide you more AI functionalities, [Aippia](https://aippia.com) will be focusing on AI.
 
-PEX/NFT/IPFS functionalities will be served on a seperate innovative Web3 platform: [Babely](https://babely.cc)
+PEX/NFT/IPFS functionalities will be served on a seperate innovative Web3 platform: [Babely](https://babelyx.com)
 
 More Choices, More Space.
 
@@ -102,4 +102,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-**[🔙️ Contents Table](./README.md)**
+**[🔙️ Contents Table](./home.md)**
