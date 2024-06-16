@@ -3,7 +3,7 @@
 ## Contents Table
 
 - [What is Aippia](./whitepaper.md)
-- [Feature Updates](./news.md)
+- [Download Apps](./news.md)
 - [How to](./howto/)
   - [create an Aipp](./howto/create-aipp.md)
   - [earn money from your Aipp](./howto/earn-money.md)
