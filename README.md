@@ -13,4 +13,6 @@ Talk is cheap, show me the app! [Click here to try it now!](https://u.aippia.com
 
 ---
 
-🌐 Looking for local services in China? Take a look at [爱奇点 - 中国区](https://lib.cn.aippia.com)
+🔍 Contents on this site are simultaneously published on various major platforms (X, Facebook, Youtube, etc.). Please [search and follow Aippia across the internet](https://links.aippia.com) ！
+
+🌐 寻找中国区服务？请访问 [爱奇点 - 中国区](https://lib.cn.aippia.com)

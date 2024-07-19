@@ -1,6 +1,14 @@
 # Aippia - Updates & News
 
-[Download Web/Android/iOS apps](https://links.aippia.com)
+[Available on all platforms: Web/Android/iOS](https://links.aippia.com)
+
+### 2024-07-11 Agidin Optimo
+
+We proudly introduce our own AI: Agidin Optimo! It has long-term memory and can process documents for you.
+
+### 2024-05-13 gpt-4o
+
+gpt-4o is available in Aippia now!
 
 ### 2024-04-11 爱奇点.com
 
