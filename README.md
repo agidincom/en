@@ -9,11 +9,11 @@
   - [earn money from your Aipp](./howto/earn-money.md)
   - [customize Aipp with files](./howto/filebase.md)
 
-Talk is cheap, show me the app. [Join Aippia now!](https://u.aippia.com)
+Talk is cheap, show me the app. [Step into Aippia now!](https://u.aippia.com)
 
 Please search and follow [Aippia on various platforms](https://links.aippia.com).
 
-We'd love to hear from you! Contact us: [hi@aippia.com](mailto:hi@aippia.com)
+We'd love to hear from you! Contact us by email to [hi@aippia.com](mailto:hi@aippia.com) or [leave a message here](https://csr.aippia.com)
 
 ---
 
