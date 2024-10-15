@@ -17,4 +17,4 @@ We'd love to hear from you! Contact us by email to [hi@aippia.com](mailto:hi@aip
 
 ---
 
-🌐 寻找中国区服务？请访问 **[爱奇点 - 中国区](https://lib.cn.aippia.com)**
+🌐 寻找中国区服务？请访问 [**爱奇点 - 中国区**](https://lib.cn.aippia.com)

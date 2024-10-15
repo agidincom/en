@@ -110,4 +110,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-**[🔙️ Back to Home](./home.md)**
+[**🔙️ Back to Home**](./home.md)
