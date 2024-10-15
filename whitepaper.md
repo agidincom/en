@@ -52,4 +52,4 @@ We are a global team that operates as a decentralized DAO. Whether you are an en
 
 ---
 
-**[🔙️ Contents Table](./home.md)**
+**[🔙️ Back to Home](./home.md)**

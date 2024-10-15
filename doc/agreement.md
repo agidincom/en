@@ -114,3 +114,7 @@ Written claims concerning copyright infringement must include the following info
 (j) **Equitable Remedies**. You acknowledge that if you violate or breach these Terms, it may cause irreparable harm to Aippia and its affiliates, and Aippia shall have the right to seek injunctive relief against you in addition to any other legal remedies.
 
 (k) **Entire Agreement**. These Terms and any policies incorporated in these Terms contain the entire agreement between you and Aippia regarding the use of the Services and, other than any Service specific terms of use or any applicable enterprise agreements, supersedes any prior or contemporaneous agreements, communications, or understandings between you and Aippia on that subject.
+
+---
+
+**[🔙️ Back to Home](../home.md)**

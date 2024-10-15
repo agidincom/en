@@ -1,13 +1,13 @@
 # Aippia - Global
 
-## Contents Table
+## Back to Home
 
 - [What is Aippia](./whitepaper.md)
 - [History and News](./news.md)
 - [How to](./howto/)
-  - [create an Aipp](./howto/create-aipp.md)
-  - [earn money from your Aipp](./howto/earn-money.md)
-  - [customize Aipp with files](./howto/filebase.md)
+  - [Create an Aipp](./howto/create-aipp.md)
+  - [Earn money from your Aipp](./howto/earn-money.md)
+  - [Customize Aipp with files](./howto/filebase.md)
 
 Talk is cheap, show me the app. [Step into Aippia now!](https://u.aippia.com)
 
@@ -17,4 +17,4 @@ We'd love to hear from you! Contact us by email to [hi@aippia.com](mailto:hi@aip
 
 ---
 
-🌐 寻找中国区服务？请访问 [爱奇点 - 中国区](https://lib.cn.aippia.com)
+🌐 寻找中国区服务？请访问 **[爱奇点 - 中国区](https://lib.cn.aippia.com)**

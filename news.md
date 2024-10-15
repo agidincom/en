@@ -60,7 +60,7 @@ Since version 2.0, Aippia has become completely independent as a platform dedica
 
 ### 2023-12-22 User Built AI Apps
 
-Important! From now on, you can build your own AI app and share with everyone, unleashing infinite possibilities.
+Important! From now on, you can build your own AI app and share with everyone.
 
 Please be reminded that it is currently for test only. Thank you for being the first to try!
 
@@ -110,4 +110,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-**[🔙️ Contents Table](./home.md)**
+**[🔙️ Back to Home](./home.md)**
