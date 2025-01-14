@@ -1,4 +1,4 @@
-# Aippia - Community Rewards Program
+# Agidin - Community Rewards Program
 
 We hope to explore the new possibilities and new value of artificial intelligence with more partners.
 

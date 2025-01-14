@@ -1,12 +1,12 @@
-# Aippia - Build & Share AI Apps
+# Agidin - Build & Share AI Apps
 
-[🎁 Claim credit to try it now!](https://u.aippia.com)
+[🎁 Claim credit to try it now!](https://u.agidin.com)
 
 At the dawn of the new era of artificial intelligence, we are committed to creating an artificial intelligence aggregation platform that allows users to directly access various AI models emerging around the world without any additional settings, one-stop, zero-threshold, and low-cost, and can talk, draw, design logos, make documents, make tables, and write code、...... Make it easy for users to sync with the world's strongest, latest, and most powerful AI.
 
-### What is Aippia?
+### What is Agidin?
 
-Aippia stands for AI apps, it is a new land for AI beings.
+Agidin stands for AI apps, it is a new land for AI beings.
 
 ### Zero threshold
 
@@ -24,7 +24,7 @@ Don't download! Do not install! Do not set! Don't look at the tutorial!
 
 We will continue to integrate various AI models and applications. No matter where you are from, no matter what new AI emerges in the world, we will be the first to get it to you!
 
-We deliver the service through all major channels, including [apps on Web, iOS, Android platforms](https://links.aippia.com).
+We deliver the service through all major channels, including [apps on Web, iOS, Android platforms](https://links.agidin.com).
 
 Need to customize your own model? Contact us and we can train your private AI model for you.
 
@@ -38,7 +38,7 @@ For long-term users, we pay as you go flexibly based on AI power consumption: st
 
 ### Globalization and Localization
 
-We are open to the whole world and provide global service at [🔗 aippia.com](https://u.aippia.com)
+We are open to the whole world and provide global service at [🔗 agidin.com](https://u.agidin.com)
 
 We also provide localized services to respect local culture and policies. For example, we provide a localized site [🔗 爱奇点.com](https://u.爱奇点.com) for China with special content censorship aligned with China's policies, so that Chinese users can visit us as smooth as possible.
 
@@ -48,7 +48,7 @@ Our service facilities are distributed all over the world, and we use decentrali
 
 ### About us
 
-We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@aippia.com](hi@aippia.com) or[ join communities](https://links.aippia.com) !
+We are a global team that operates as a decentralized DAO. Whether you are an engineer, designer, investor, feel free to contact us at [hi@agidin.com](hi@agidin.com) or[ join communities](https://links.agidin.com) !
 
 ---
 
