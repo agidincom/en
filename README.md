@@ -1,5 +1,9 @@
 # Agidin - Global
 
+🌐 需要中国区服务？请访问 [**爱奇点 - 中国区**](https://info.cn.agidin.com)
+
+---
+
 ## Content
 
 - [What is Agidin](./whitepaper.md)
@@ -18,5 +22,3 @@ We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agi
 Agidin is an application under Faronear. Welcome to visit [Faronear](https://faronear.com) to discover more innovative and cutting-edge applications.
 
 ---
-
-🌐 寻找中国区服务？请访问 [**爱奇点 - 中国区**](https://info.cn.agidin.com)

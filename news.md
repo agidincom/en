@@ -2,6 +2,20 @@
 
 [Available on all platforms: Web/Android/iOS](https://links.agidin.com)
 
+---
+
+### 2025-02-15 DeepSeek R1
+
+DeepSeek R1 is now available! Due to the Chinese New Year holiday, we couldn\'t launch this highly anticipated R1 model right away. As an apology, this model will be available for free until the end of March!
+
+### 2025-01-15 agidin.com
+
+We have changed our name! Please remember our new permanent address "agidin.com", which sounds similar to our Chinese address "爱奇点.com". It symbolizes our belief in AGI, like Aladdin believes in the magic lamp, hence "Agidin"! Other old domains will no longer be in use after Feb. 15, so please update your bookmark right now!
+
+### 2025-01-05 DeepSeek v3
+
+DeepSeek v3 is available now! One of the top AI at the lowest cost.
+
 ### 2025-01-02 Llama 3.3
 
 Llama model is upgraded to the latest 3.3 fastest edition and supports multilingual dialogue now.
@@ -22,8 +36,6 @@ Default AI switched to "Agidin Omni AI", with long-term memory, better understan
 
 Supports dragging and dropping photos and documents into the chat interface, so you no longer need to click to find files.
 
-### Drag and drop photos and documents to chat interface, no more need to click to find files
-
 ### 2024-07-11 Agidin Optimo
 
 We proudly introduce our own AI: Agidin Optimo! It has long-term memory and can process documents for you.
@@ -42,7 +54,7 @@ Today OpenAI has officially announced the upgrade of `gpt4-turbo` to stable rele
 
 ### 2024-04-07 爱奇点 in WeChat
 
-We have launched a WeChat official account [爱奇点]. Please follow and subscribe to it! By following [爱奇点], you will be able to directly access and use our service within WeChat.
+We have launched a Wechat official account [爱奇点]. Please follow and subscribe to it! By following [爱奇点] in Wechat, you will be able to directly access and use our service within WeChat.
 
 ### 2024-04-10 GPT-4-Turbo
 
@@ -56,7 +68,7 @@ We have also provided Llama2 13b & some other language models for Free!
 
 ### 2024-02-22 Rebranding
 
-Rebranding the AI service as Agidin, in order to better reflect the Aipp marketplace. Accordingly, the web address has been changed to [agidin.com](https://agidin.com), while still retaining [aizoi.cc](https://aizoi.cc) for parallel usage. The [iOS app](https://ios.agidin.com) and [Android app](https://apk.agidin.com) are also upgraded. Thank you for your trust!
+Rebranding the AI service as Aippia, in order to better reflect the Aipp marketplace. Accordingly, the web address has been changed to aippia.com, while still retaining aizoi.cc for parallel usage. The [iOS app](https://ios.agidin.com) and [Android app](https://apk.agidin.com) are also upgraded.
 
 ### 2024-02-10 Gemini Pro
 
