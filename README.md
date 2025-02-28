@@ -1,10 +1,10 @@
 # Agidin - Global
 
-🌐 需要中国区服务？请访问 [**爱奇点 - 中国区**](https://info.cn.agidin.com)
+🌐 想看中文版？请访问 [爱奇点 - 中国区](https://info.cn.agidin.com)
 
 ---
 
-## Content
+### Content
 
 - [What is Agidin](./whitepaper.md)
 - [History and News](./news.md)
@@ -15,10 +15,10 @@
 
 Talk is cheap, show me the app. [Step into Agidin now!](https://u.agidin.com)
 
-Please search and follow [Agidin on various platforms](https://links.agidin.com).
+Please search and follow [Agidin on various social platforms](https://links.agidin.com).
 
-We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agidin.com) or [leave a message here](https://csr.agidin.com)
-
-Agidin is an application under Faronear. Welcome to visit [Faronear](https://faronear.com) to discover more innovative and cutting-edge applications.
+We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agidin.com) or leave a message at the [helpdesk](https://csr.agidin.com).
 
 ---
+
+✨ Agidin is powered by Faronear. Visit [Faronear](https://faronear.com) to discover more innovative and cutting-edge applications.
