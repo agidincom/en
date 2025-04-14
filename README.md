@@ -21,4 +21,4 @@ We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agi
 
 ---
 
-✨ Agidin is powered by Faronear. Visit [Faronear](https://faronear.com) to discover more innovative and cutting-edge applications.
+✨ Agidin is powered by [Faronear](https://faronear.com)
