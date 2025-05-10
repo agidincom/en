@@ -1,17 +1,17 @@
 # Agidin - Global
 
-🌐 想看中文版？请访问 [爱奇点 - 中国区](https://info.cn.agidin.com)
+🌐 想看中文版？请访问 [爱奇点 - 中文区](https://info.cn.agidin.com)
 
 ---
 
 ### Content
 
-- [What is Agidin](./whitepaper.md)
-- [History and News](./news.md)
-- [How to](./howto/)
-  - [Create an Aipp](./howto/create-aipp.md)
-  - [Earn money from your Aipp](./howto/earn-money.md)
-  - [Customize Aipp with files](./howto/filebase.md)
+- [What is Agidin](./topic/whitepaper/home.md)
+- [History and News](./news/home.md)
+- How To
+  - [Create an Aipp](./topic/create_aipp/home.md)
+  - [Monetize Your Aipp](./topic/monetize_aipp/home.md)
+  - [Customize Aipp with Files](./topic/aipp_files/home.md)
 
 Talk is cheap, show me the app. [Step into Agidin now!](https://u.agidin.com)
 

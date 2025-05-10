@@ -40,8 +40,8 @@ Our service facilities are distributed all over the world, and we use decentrali
 
 ### About us
 
-We are a decentralized team. Feel free to contact us at [hi@agidin.com](hi@agidin.com) or[ join Agidin communities](https://links.agidin.com) !
+We are a global team that operates as a decentralized DAO. Feel free to contact us at [hi@agidin.com](hi@agidin.com) or[ join Agidin communities](https://links.agidin.com) !
 
 ---
 
-[**🔙️ Back to Home**](./home.md)
+[**🔙️ Back to Home**](../../home.md)
