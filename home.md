@@ -1,6 +1,6 @@
 # Agidin - Global
 
-🌐 想看中文版？请访问 [爱奇点 - 中文区](https://info.cn.agidin.com)
+🌐 中文用户请访问 [爱奇点 - 中文区](https://info.cn.agidin.com)
 
 ---
 
@@ -21,4 +21,6 @@ We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agi
 
 ---
 
-✨ Agidin is powered by [Faronear](https://faronear.com)
+✨ [Agidin App](https://agidin.com)
+
+<!-- ✨ Agidin is powered by [Faronear](https://faronear.com) -->

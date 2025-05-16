@@ -1,6 +1,6 @@
 # Agidin - Updates & News
 
-[Available on all platforms: Web/Android/iOS](https://links.agidin.com)
+[Download Apps: Web, Android, iOS](https://links.agidin.com)
 
 ---
 
