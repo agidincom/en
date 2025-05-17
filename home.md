@@ -13,9 +13,9 @@
   - [Monetize Your Aipp](./topic/monetize_aipp/home.md)
   - [Customize Aipp with Files](./topic/aipp_files/home.md)
 
-Talk is cheap, show me the app. [Step into Agidin now!](https://u.agidin.com)
+Talk is cheap, show me the app. Try [Agidin App](https://u.agidin.com) now!
 
-Please search and follow [Agidin on various social platforms](https://links.agidin.com).
+Please search and follow [Agidin Channels](https://links.agidin.com) on various social platforms.
 
 We'd love to hear from you! Contact us by email to [hi@agidin.com](mailto:hi@agidin.com) or leave a message at the [helpdesk](https://csr.agidin.com).
 
