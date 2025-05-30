@@ -114,7 +114,7 @@ you can review your chat history with AI!
 
 To provide you more AI functionalities, [Agidin](https://agidin.com) will be focusing on AI.
 
-PEX/NFT/IPFS functionalities will be served on a seperate innovative Web3 platform: [Babely](https://babelyx.com)
+PEX/NFT/IPFS functionalities will be served on a seperate innovative Web3 platform: [Babelyx](https://babelyx.com)
 
 More Choices, More Space.
 

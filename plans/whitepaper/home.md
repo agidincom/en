@@ -1,6 +1,6 @@
 # Agidin - Connects You and AI Singularity
 
-[🎁 Claim credit to try it now!](https://u.agidin.com)
+---
 
 ### Zero threshold
 
@@ -38,7 +38,7 @@ We also provide localized services to respect local culture and policies. For ex
 
 Our service facilities are distributed all over the world, and we use decentralized blockchain (Blockchain), Interplanetary File System (IPFS), data autonomy (Web3) and other infrastructure to implement end-user applications.
 
-### About us
+### Contact Us
 
 We are a global team that operates as a decentralized DAO. Feel free to contact us at [hi@agidin.com](hi@agidin.com) or[ join Agidin communities](https://links.agidin.com) !
 

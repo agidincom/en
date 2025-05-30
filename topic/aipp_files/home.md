@@ -1,5 +1,7 @@
 # How to upload files to Aipp?
 
+---
+
 You can upload files of following formats:
 
 | Knowledge files | Template files | MIME TYPE                                                                 |

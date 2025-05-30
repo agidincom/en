@@ -14,7 +14,7 @@ You must be at least 13 years old to use the Services. If you are under 18 you m
 
 (b) **Feedback**. We appreciate feedback, comments, ideas, proposals and suggestions for improvements. If you provide any of these things, we may use it without restriction or compensation to you.
 
-(c) **Restrictions**. You may not (i) use the Services in a way that infringes, misappropriates or violates any person's rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are contrary to applicable law); (iii) use output from the Services to develop models that compete with Agidin; (iv) except as permitted through the API, use any automated or programmatic method to extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vii) buy, sell, or transfer API keys without our prior consent; or (viii), send us any personal information of children under 13 or the applicable age of digital consent. You will comply with any rate limits and other requirements in our documentation. You may use Services only in geographies [currently supported by Agidin](https://platform.openai.com/docs/supported-countries).
+(c) **Restrictions**. You may not (i) use the Services in a way that infringes, misappropriates or violates any person's rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are contrary to applicable law); (iii) use output from the Services to develop models that compete with Agidin; (iv) except as permitted through the API, use any automated or programmatic method to extract data or output from the Services, including scraping, web harvesting, or web data extraction; (v) represent that output from the Services was human-generated when it is not or otherwise violate our Usage Policies; (vii) buy, sell, or transfer API keys without our prior consent; or (viii), send us any personal information of children under 13 or the applicable age of digital consent. You will comply with any rate limits and other requirements in our documentation. You may use Services only in geographies currently supported by Agidin.
 
 (d) **Third Party Services**. Any third party software, services, or other products you use in connection with the Services are subject to their own terms, and we are not responsible for third party products.
 
@@ -24,7 +24,7 @@ You must be at least 13 years old to use the Services. If you are under 18 you m
 
 (b) **Similarity of Content**. Due to the nature of machine learning, Output may not be unique across users and the Services may generate the same or similar output for Agidin or a third party. For example, you may provide input to a model such as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also ask similar questions and receive the same response. Responses that are requested by and generated for other users are not considered your Content.
 
-(c) **Use of Content to Improve Services**. We do not use Content that you provide to or receive from our API (“API Content”) to develop or improve our Services. We may use Content from Services other than our API (“Non-API Content”) to help develop and improve our Services. You can read more here about [how Non-API Content may be used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance). If you do not want your Non-API Content used to improve Services, you can opt out by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-_A7JFs4LbIuzevQ_78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
+(c) **Use of Content to Improve Services**. We do not use Content that you provide to or receive from our API (“API Content”) to develop or improve our Services. We may use Content from Services other than our API (“Non-API Content”) to help develop and improve our Services. If you do not want your Non-API Content used to improve Services, you can opt out by by sending email to hi@agidin.com. Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
 (d) **Accuracy**. Artificial intelligence and machine learning are rapidly evolving fields of study. We are constantly working to improve our Services to make them more accurate, reliable, safe and beneficial. Given the probabilistic nature of machine learning, use of our Services may in some situations result in incorrect Output that does not accurately reflect real people, places, or facts. You should evaluate the accuracy of any Output as appropriate for your use case, including by using human review of the Output.
 
@@ -46,7 +46,7 @@ You must be at least 13 years old to use the Services. If you are under 18 you m
 
 (b) **Security**. You must implement reasonable and appropriate measures designed to help secure your access to and use of the Services. If you discover any vulnerabilities or breaches related to your use of the Services, you must promptly contact Agidin and provide details of the vulnerability or breach.
 
-(c) **Processing of Personal Data**. If you use the Services to process personal data, you must provide legally adequate privacy notices and obtain necessary consents for the processing of such data, and you represent to us that you are processing such data in accordance with applicable law. If you will be using the Agidin API for the processing of “personal data” as defined in the GDPR or “Personal Information” as defined in CCPA, please fill out [this form](https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe) to request to execute our Data Processing Addendum.
+(c) **Processing of Personal Data**. If you use the Services to process personal data, you must provide legally adequate privacy notices and obtain necessary consents for the processing of such data, and you represent to us that you are processing such data in accordance with applicable law. If you will be using the Agidin API for the processing of “personal data” as defined in the GDPR or “Personal Information” as defined in CCPA, please send email to hi@agidin.com to request to execute our Data Processing Addendum.
 
 ## 6. Term and Termination
 
@@ -90,7 +90,7 @@ YOU AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTION WAIVER PROVISI
 
 (c) **U.S. Federal Agency Entities**. The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
 
-(d) **Copyright Complaints**. If you believe that your intellectual property rights have been infringed, please send notice to the address below or fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeSq2JNu9g8skmUCXh9968brvVftNa2lNInG_KyNJlBPEuZJw/viewform). We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
+(d) **Copyright Complaints**. If you believe that your intellectual property rights have been infringed, please send notice to hi@agidin.com. We may delete or disable content alleged to be infringing and may terminate accounts of repeat infringers.
 
 Written claims concerning copyright infringement must include the following information:
 
@@ -117,4 +117,4 @@ Written claims concerning copyright infringement must include the following info
 
 ---
 
-[**🔙️ Back to Home**](../home.md)
+[**🔙️ Back to Home**](../../home.md)
