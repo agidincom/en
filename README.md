@@ -16,11 +16,11 @@
 We'd love to hear from you!
 
 - Send us an email to [hi@agidin.com](mailto:hi@agidin.com)
-- Leave a message at our <a href="https://csr.agidin.com" target="_blank">helpdesk</a>
-- Search and follow <a href="https://links.agidin.com" target="_blank">Agidin Channels</a> on various social platforms.
+- Leave a message at our [helpdesk](https://csr.agidin.com)
+- Search and follow [Agidin Channels](https://links.agidin.com) on various social platforms.
 
 ---
 
-🚀 Talk is cheap! Show me the <a href="https://u.agidin.com" target="_blank">Agidin App</a>
+🚀 Talk is cheap! Show me the [Agidin App](https://u.agidin.com)
 
 <!-- ✨ Agidin is powered by [Faronear](https://faronear.com) -->
