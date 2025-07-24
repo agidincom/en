@@ -144,4 +144,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-[**🔙️ Back to Home**](../home.md)
+[**🔙️ Go Home**](../home.md)

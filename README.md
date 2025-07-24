@@ -1,22 +1,22 @@
-# Agidin - Global
+# Agidin - US
 
-🌎 [爱奇点 - 简体中文](https://info.cn.agidin.com)
+🌎 [Agidin - Global](https://info.agidin.com)
 
 ---
 
 ### Content
 
-- [What is Agidin](./plans/whitepaper/home.md)
+- [What is Agidin](./about/whitepaper/home.md)
 - [News and History](./news/home.md)
 - How To
-  - [Create an Aipp](./topic/create_aipp/home.md)
-  - [Monetize Your Aipp](./topic/monetize_aipp/home.md)
-  - [Customize Aipp with Files](./topic/aipp_files/home.md)
+  - [Create an Aipp](./howto/create_aipp/home.md)
+  - [Monetize Your Aipp](./howto/monetize_aipp/home.md)
+  - [Customize Aipp with Files](./howto/customize_aipp_files/home.md)
 
 We'd love to hear from you!
 
 - Send us an email to [hi@agidin.com](mailto:hi@agidin.com)
-- Leave a message at our [helpdesk](https://csr.agidin.com)
+- Leave a message at our [Customer Service](https://csr.agidin.com)
 - Search and follow [Agidin Channels](https://links.agidin.com) on various social platforms.
 
 ---

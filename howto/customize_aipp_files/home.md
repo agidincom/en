@@ -38,4 +38,4 @@ You can upload files of following formats:
 
 ---
 
-[**🔙️ Back to Home**](../../home.md)
+[**🔙️ Go Home**](../../home.md)

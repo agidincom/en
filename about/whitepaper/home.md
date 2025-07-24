@@ -44,4 +44,4 @@ We are a global team that operates as a decentralized DAO. Feel free to contact 
 
 ---
 
-[**🔙️ Back to Home**](../../home.md)
+[**🔙️ Go Home**](../../home.md)
